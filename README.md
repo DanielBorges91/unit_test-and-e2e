@@ -4,7 +4,7 @@
 - Integração: testa como um ou mais componentes/funcionalidades de comportam juntos(as).
 - E2E: simula o que um usuário vai fazer na nossa aplicação diariamente.
 
-# Bando de dados
+# Banco de dados
 
 - Unitários: não acessa o banco de dados.
 - Integração: Talvez.
